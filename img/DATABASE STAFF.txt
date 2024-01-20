@@ -1,0 +1,28 @@
+DATABASE STAFF
+- Nama Pengguna
+- Password
+- Jabatan
+
+RIWAYAT SEWA
+- Nama Penyewa
+- NIS Penyewa
+- Nama barang
+- banyak
+- waktu sewa
+- batas waktu
+
+SIMPAN PINJAM
+- Nama Siswa
+- NIS Siswa
+- Jenis transaksi
+- Nominal
+- Saldo Awal
+- Saldo Akhir
+
+RIWAYAT SIMPAN PINJAM
+- No Transaksi
+- Nama Siswa
+- NIS Siswa
+- Jenis transaksi
+- Nominal
+- Saldo Akhir
